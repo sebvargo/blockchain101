@@ -1,0 +1,5 @@
+{
+    "author":"username",
+    "content":"information user wants to store in blockchain",
+    "timestamp":"date and time when the transaction is created by the author"
+}
